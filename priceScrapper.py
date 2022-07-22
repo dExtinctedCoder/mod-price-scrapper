@@ -24,6 +24,8 @@ def scrapper(keyword):
 
   for key in product:
     print(key, '->', product[key])
+    print('')
+
   
 
 def extract(jeyword):
